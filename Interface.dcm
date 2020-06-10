@@ -436,6 +436,8 @@ F http://www.ti.com/lit/ds/symlink/sn75160b.pdf
 $ENDCMP
 #
 $CMP SN75LVDS83B
+D FlatLink Transmitter, TSSOP-56
+K Parallel to LVDS display driver
 F https://www.ti.com/lit/ds/symlink/sn75lvds83b.pdf
 $ENDCMP
 #
